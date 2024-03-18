@@ -5,4 +5,5 @@ add-nbo:
 	gcc -o add-nbo add-nbo.cpp
 
 clean:
-	rm add-nbo *.bin
+	rm -f add-nbo
+	rm -f *.o
