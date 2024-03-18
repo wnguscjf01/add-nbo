@@ -25,4 +25,6 @@ int main(int argc, char* argv[]) {
 
     fclose(f1);
     fclose(f2);
+
+    return 0;
 }
