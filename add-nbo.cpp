@@ -7,7 +7,6 @@ int main(int argc, char* argv[]) {
 
     uint32_t x, y;
     uint32_t hx, hy;
-    uint32_t plus;
 
     FILE* f1;
     FILE* f2;
